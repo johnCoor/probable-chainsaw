@@ -1,6 +1,6 @@
 este es un texto Domi 
 para fines educativos
 
-mi nombre es john y soy desarollador senior
-
 parece que es alto pero en realidad no lo es
+
+mi nombre es john y soy desarollador senior pero antes era junior
