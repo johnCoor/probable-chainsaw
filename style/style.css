@@ -5,3 +5,16 @@ body{
     width: 60%;
     margin: 0 auto;
 }
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    justify-self: center;
+    border-radius: 25% ;
+    padding: 7px;
+    margin-bottom: 10px;
+    background: orange;
+    border: 5px;
+}
