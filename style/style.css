@@ -5,3 +5,8 @@ body{
     width: 60%;
     margin: 0 auto;
 }
+
+h1 {
+    background: blue;
+    padding: 50px;
+}
